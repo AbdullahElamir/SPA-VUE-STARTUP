@@ -1,3 +1,5 @@
+# SPA-VUE-STARTUP
+ how to build a SPA with ASP.NET Core and Vue
 # VueDotnetCoreTemplate
 this is a SPA with Asp.net core and Vue.js
 

@@ -3,8 +3,8 @@
 # VueDotnetCoreTemplate
 this is a SPA with Asp.net core and Vue.js
 
-# Tutorial
-https://medium.com/@weicheng0324094/the-easiest-way-to-get-started-with-asp-net-core-and-vue-cli-3-702767299532
+# Created By
+Abdullah Elamir
 
 # Thing to do before run:
 Please run below command inside ClientApp:
